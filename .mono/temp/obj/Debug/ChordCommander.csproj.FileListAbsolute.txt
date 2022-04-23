@@ -1,0 +1,9 @@
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\bin\Debug\ChordCommander.dll
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\bin\Debug\ChordCommander.pdb
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\obj\Debug\ChordCommander.AssemblyInfoInputs.cache
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\obj\Debug\ChordCommander.AssemblyInfo.cs
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\obj\Debug\ChordCommander.csproj.CoreCompileInputs.cache
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\obj\Debug\ChordCommander.dll
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\obj\Debug\ChordCommander.pdb
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\obj\Debug\ChordCommander.csproj.AssemblyReference.cache
+C:\Users\Tynan Dion\Desktop\games\ChordCommander\.mono\temp\obj\Debug\ChordCommander.GeneratedMSBuildEditorConfig.editorconfig
